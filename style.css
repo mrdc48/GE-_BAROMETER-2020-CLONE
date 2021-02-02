@@ -182,9 +182,21 @@ p{
   margin-top: 2000px;
   margin-left: 10px;
 }
-  .heading  h1 p{
-    margin-top: 50px;
-  }
+  .heading{
+  
+  margin-top: 100px;
+  margin-left :45px;
+  color: #eee;
+}
+h1{
+  font-size: 18pt;
+  margin-top: 10px ;
+}
+p{
+  font-size: 11pt;
+  margin-top: 20px;
+  margin-bottom: 20px ;
+}
   .conr p {
     margin-top: 120%;
     width: 100%;
