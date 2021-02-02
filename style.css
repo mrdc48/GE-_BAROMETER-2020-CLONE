@@ -195,12 +195,14 @@ p{
   margin-top: 30px;
   margin-bottom: 20px ;
 }
-  .conr p {
-    margin-top: 120%;
+  .conr  {
+    margin-top: 440px;
     width: 100%;
-    text-align: center;
-    font-size: 80px;
     height: 80%;
+  }
+  .conr p {
+   text-align: center;
+    font-size: 80px;
   }
   .conr a {
     text-align: center;
