@@ -167,13 +167,6 @@ p{
   font-size: 8pt;
 }
 @media screen and (min-width: 500px) {
-  body {
-  background-image: url('bg.gif');
-  background-repeat: no-repeat;
-  background-size: 100vw 200vh;
-  padding: 0;
-  margin: 0;
-}
   .logo{
     margin: 50px 50px ;
     width: 5%;
@@ -190,13 +183,13 @@ p{
   margin-left: 10px;
 }
   .heading {
-  margin-top: 200px!important;
+  margin-top: 300px;
   margin-left :45px;
   color: #eee;
 }
 h1{
   font-size: 18pt;
-  margin-top: 50% ;
+  margin-top: 20px ;
 }
 p{
   font-size: 11pt;
