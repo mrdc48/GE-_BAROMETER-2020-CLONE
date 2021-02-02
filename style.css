@@ -187,15 +187,15 @@ p{
   color: #eee;
 }
 .heading h1{
-  width:50%;
-  max-width:50%;
+  width:30%;
+  max-width:30%;
   float:left;
   font-size: 18pt;
   margin-top: 10px ;
 }
 heading p{
-  width:50%;
-  max-width:50%;
+  width:30%;
+  max-width:30%;
   float:right;
   font-size: 11pt;
   margin-top: 30px;
