@@ -167,6 +167,13 @@ p{
   font-size: 8pt;
 }
 @media screen and (min-width: 500px) {
+  body {
+  background-image: url('bg.gif');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 0;
+  margin: 0;
+}
   .logo{
     margin: 50px 50px ;
     width: 5%;
