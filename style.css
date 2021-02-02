@@ -166,7 +166,7 @@ p{
   margin: 30px 80px;
   font-size: 8pt;
 }
-@media all screen (min-width: 480px) {
+@media only screen and (min-device-width: 768px) {
   .logo{
     margin: 50px 50px ;
     width: 5%;
