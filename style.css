@@ -8,6 +8,8 @@
   box-sizing: border-box;
 
 }
+@media (min-width : 200){
+  
 body {
   background-image: url('bg.gif');
   background-repeat: no-repeat;
@@ -164,6 +166,7 @@ p{
   font-weight: bold;
   margin: 30px 80px;
   font-size: 8pt;
+}
 }
 @media (min-width: 1025px) {
   .logo{
