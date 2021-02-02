@@ -188,12 +188,14 @@ p{
 }
 .heading h1{
   width:50%;
+  max-width:50%;
   float:left;
   font-size: 18pt;
   margin-top: 10px ;
 }
 heading p{
   width:50%;
+  max-width:50%;
   float:right;
   font-size: 11pt;
   margin-top: 30px;
