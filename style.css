@@ -186,14 +186,13 @@ p{
   margin-left :45px;
   color: #eee;
 }
-.heading h1{
+ h1{
   width:30%;
   max-width:30%;
   float:left;
   font-size: 18pt;
   margin-top: 10px ;
-}
-heading p{
+  } p{
   width:30%;
   max-width:30%;
   float:right;
