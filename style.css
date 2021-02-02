@@ -97,7 +97,7 @@ body {
 }
 
 .heading{
-  margin-top: 400px;
+  margin-top: 350px !important;
   margin-left :40px;
   color: #eee;
 }
