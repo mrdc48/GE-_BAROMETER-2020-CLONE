@@ -166,7 +166,7 @@ p{
   margin: 30px 80px;
   font-size: 8pt;
 }
-@media screen and (min-width: 480px) {
+@media all (min-width: 480px) {
   .logo{
     margin: 50px 50px ;
     width: 5%;
@@ -183,7 +183,7 @@ p{
   margin-left: 10px;
 }
   .heading {
-  margin-top: 100px;
+  margin-top: 230px;
   margin-left :45px;
   color: #eee;
 }
