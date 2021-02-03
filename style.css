@@ -21,8 +21,6 @@ body {
   top: 0;
   position: fixed;
   overflow-x: hidden;
-
-  
 }
 .navbar{
   width: 100%;
@@ -190,7 +188,7 @@ padding:60px;
   text-align: center;
   }
   .conr{
-    margin-top:60vh;
+    margin-top:110vh;
 }
 
   
