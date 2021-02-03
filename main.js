@@ -7,4 +7,20 @@ const navbar = document.querySelector('.navbar');
   
 });
 
+jQuery(document).ready(function($) {
+  function hideShow(scroll) {
+    if (scroll >= 680) {
+      $('.logo').hide();
+    } else {
+      $('.logo').show();
+    }
+  }
+  hideShow($(this).scrollTop());
+  $(document).scroll(function() {
+    hideShow($(this).scrollTop());
+  });
+});
+
+
+
 
