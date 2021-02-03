@@ -198,6 +198,16 @@ p{
     margin-top: 200%;
     text-align: center;
   }
+.beside img{
+  margin-top: 40px;
+  margin-left: 110px;
+  margin-bottom:0px;
+  border-radius: 20px;
+  width: 54%;
+  max-width: 54%;
+  max-height: 54%;
+  height: 54%;
+}
 }
 @media (min-width: 1024px){
   .logo {
@@ -223,9 +233,19 @@ p{
   background: #eee;
   transition: all 0.2s;
 }
-  .navbar_list {
+.navbar_list {
     margin-top: 200%;
     text-align: center;
   }
+.beside img{
+  margin-top: 40px;
+  margin-left: 110px;
+  margin-bottom:0px;
+  border-radius: 20px;
+  width: 54%;
+  max-width: 54%;
+  max-height: 54%;
+  height: 54%;
+}
 }
 
