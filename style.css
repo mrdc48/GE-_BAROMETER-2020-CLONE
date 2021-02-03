@@ -168,7 +168,7 @@ p{
   margin: 30px 80px;
   font-size: 8pt;
 }
-@media (min-width: 768px){
+@media (min-width: 1024px){
   .logo{
 width : 17%;
 margin-left:17px;
