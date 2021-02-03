@@ -204,6 +204,7 @@ p{
     margin-top: 13px;
     width: 16%;
     height: 8%;
+    Position: fixed;
     padding: 60px;
   }
   .navbar_list {
