@@ -260,11 +260,11 @@ body {
     position: fixed;
   }
   .hamburger {
-    padding: 40px;
+    padding: 35px;
     margin-right: 17px;
     margin-top: 70px;
-    width: 7%;
-    height: 16%;
+    width: 6%;
+    height: 12%;
   }
   .navbar_list{
     margin-top: 70%;
@@ -275,12 +275,12 @@ body {
   }
   .heading h1{
     font-size: 25px;
-    margin-top: 23% ;
+    margin-top: 20px ;
     margin-left: 4%;
   }
   .heading p{
     font-size: 13.3pt;
-    margin-top:65% ;
+    margin-top:40px ;
     margin-right: 7%;
     margin-left: 10%;
   }
