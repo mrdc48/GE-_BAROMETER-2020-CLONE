@@ -253,18 +253,18 @@ body {
 }
 @media (min-width:1280px) {
   .logo {
-    width: 20%;
+    width: 10%;
     margin-left: 26px;
     margin-top: 30px;
-    height: 10%;
+    height: 4%;
     position: fixed;
   }
   .hamburger {
     padding: 20px;
     margin-right: 17px;
     margin-top: 12px;
-    width: 20%;
-    height: 10%;
+    width: 10%;
+    height: 5%;
   }
   .navbar_list{
     margin-top: 200%;
