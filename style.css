@@ -347,7 +347,8 @@ body {
   border-radius: 20px;
   margin: -2px 30px;
   max-width: 90%;
-  height:auto;
+  max-height:30%;
+  
 }
 
 .beside li{
