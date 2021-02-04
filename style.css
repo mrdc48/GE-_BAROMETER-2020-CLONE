@@ -343,6 +343,13 @@ body {
   margin-right: 30%;
   margin-bottom: 10%;
 }
+.beside video{
+  border-radius: 20px;
+  margin: -2px 30px;
+  max-width: 90%;
+  height:auto;
+}
+
 .beside li{
   margin-left: 45%;
   margin-bottom: 20%;
