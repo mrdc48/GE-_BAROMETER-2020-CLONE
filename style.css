@@ -253,10 +253,10 @@ body {
 }
 @media (min-width:1280px) {
   .logo {
-    width: 7%;
+    width: 8%;
     margin-left: 26px;
     margin-top: 30px;
-    height: 4%;
+    height: 8%;
     position: fixed;
   }
   .hamburger {
@@ -264,7 +264,7 @@ body {
     margin-right: 17px;
     margin-top: 12px;
     width: 10%;
-    height: 7%;
+    height: 10%;
   }
   .navbar_list{
     margin-top: 200%;
