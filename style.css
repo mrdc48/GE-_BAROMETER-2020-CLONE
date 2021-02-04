@@ -260,17 +260,17 @@ body {
     position: fixed;
   }
   .hamburger {
-    padding: 35px;
+    padding: 40px;
     margin-right: 17px;
-    margin-top: 40px;
-    width: 8%;
-    height: 14%;
+    margin-top: 70px;
+    width: 7%;
+    height: 16%;
   }
   .navbar_list{
     margin-top: 70%;
   }
   .heading{
-    margin-top:26vh;
+    margin-top:13vh;
     display: flex;
   }
   .heading h1{
