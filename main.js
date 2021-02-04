@@ -11,9 +11,24 @@ const navbar = document.querySelector('.navbar');
 jQuery(document).ready(function($) {
   function hideShow(scroll) {
     if (scroll >= 680) {
-      $('.logo','.skill').hide();
+      $('.logo').hide();
     } else {
-      $('.logo','.skill').show();
+      $('.logo').show();
+    }
+  }
+  hideShow($(this).scrollTop());
+  $(document).scroll(function() {
+    hideShow($(this).scrollTop());
+  });
+});
+
+
+jQuery(document).ready(function($) {
+  function hideShow(scroll) {
+    if (scroll >= 700) {
+      $('.skill').hide();
+    } else {
+      $('.skill').show();
     }
   }
   hideShow($(this).scrollTop());
