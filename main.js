@@ -23,20 +23,10 @@ jQuery(document).ready(function($) {
 });
 
 
-jQuery(document).ready(function($) {
-  function hideShow(scroll) {
-    if (scroll >= 700) {
-      $('.skill').hide();
-    } else {
-      $('.skill').show();
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 710) {
+          $('.skill').css({
+            'display': 'none'
+        });
     }
-  }
-  hideShow($(this).scrollTop());
-  $(document).scroll(function() {
-    hideShow($(this).scrollTop());
-  });
 });
-
-
-
-
