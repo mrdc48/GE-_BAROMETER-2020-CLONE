@@ -254,22 +254,23 @@ body {
 @media (min-width:1280px) {
   .logo {
     width: 4%;
-    margin-left: 26px;
-    margin-top: 30px;
+    margin-left: 35px;
+    margin-top: 40x;
     height: 8%;
     position: fixed;
   }
   .hamburger {
-    padding: 20px;
+    padding: 35px;
     margin-right: 17px;
-    margin-top: 12px;
+    margin-top: 40px;
     width: 8%;
     height: 14%;
   }
   .navbar_list{
-    margin-top: 200%;
+    margin-top: 70%;
   }
   .heading{
+    margin-top:26vh;
     display: flex;
   }
   .heading h1{
@@ -313,8 +314,10 @@ body {
   margin-left:40%;
   margin-bottom:0px;
   border-radius: 20px;
-  width: 54%;
+  width:54%;
+  max-width: 54%;
   height: 45%;
+  max-height:45%;
 }
 .beside p{
   margin-left: 10%;
