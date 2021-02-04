@@ -7,12 +7,13 @@ const navbar = document.querySelector('.navbar');
   
 });
 
+
 jQuery(document).ready(function($) {
   function hideShow(scroll) {
     if (scroll >= 680) {
-      $('.logo').hide();
+      $('.logo,.skill').hide();
     } else {
-      $('.logo').show();
+      $('.logo,.skill').show();
     }
   }
   hideShow($(this).scrollTop());
