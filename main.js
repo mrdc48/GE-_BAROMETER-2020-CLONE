@@ -24,7 +24,7 @@ jQuery(document).ready(function($) {
 
 
 $(window).scroll(function() {
-    if ($(this).scrollTop() > 1000) {
+    if ($(this).scrollTop() > 680) {
           $('.skill').css({
             'display': 'none'
         });
