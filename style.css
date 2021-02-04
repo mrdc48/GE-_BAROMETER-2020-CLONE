@@ -326,20 +326,20 @@ body {
   margin-bottom: 20%;
 }
 }
-@media (min-width:1600px) {
+@media (min-width:1280px) {
   .logo {
-    width: 10%;
+    width: 90%;
     margin-left: 26px;
     margin-top: 30px;
-    height: 5%;
+    height: 45%;
     position: fixed;
   }
   .hamburger {
     padding: 20px;
     margin-right: 17px;
     margin-top: 12px;
-    width: 11%;
-    height: 7%;
+    width: 130%;
+    height: 89%;
   }
   .navbar_list{
     margin-top: 200%;
