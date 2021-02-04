@@ -24,9 +24,14 @@ jQuery(document).ready(function($) {
 
 
 $(window).scroll(function() {
-    if ($(this).scrollTop() > 710) {
+    if ($(this).scrollTop() > 1000) {
           $('.skill').css({
             'display': 'none'
         });
+     }
+    else{
+      $('.skill').css({
+        'display' : 'flex'
+       });
     }
 });
