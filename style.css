@@ -49,6 +49,9 @@ body {
   position: fixed;
 
 }
+.skill{
+  display:none;
+}
 .hamburger{
   border: 1px solid #2c2c2c;
   border-radius: 70%;
@@ -184,6 +187,9 @@ body {
     height: 3%;
     position: fixed;
   }
+.skill{
+  display:none;
+}
   .hamburger {
     padding: 20px;
     margin-right: 17px;
@@ -259,6 +265,10 @@ body {
     height: 8%;
     position: fixed;
   }
+.skill{
+  display:flex;
+  justify-content: space-around;
+}
   .hamburger {
     padding: 23px;
     margin-right: 17px;
