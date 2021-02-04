@@ -11,9 +11,9 @@ const navbar = document.querySelector('.navbar');
 jQuery(document).ready(function($) {
   function hideShow(scroll) {
     if (scroll >= 680) {
-      $('.logo,.skill').hide();
+      $('.logo','.skill').hide();
     } else {
-      $('.logo,.skill').show();
+      $('.logo','.skill').show();
     }
   }
   hideShow($(this).scrollTop());
